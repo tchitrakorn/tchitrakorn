@@ -32,6 +32,13 @@ technical_background:
     "Teaching Assistant @ Columbia University"
   ]
  
+notable_projects: 
+  [
+    "Mingly - a simple social app built with a PERN stack",
+    "Atelier - a fullstack single-page e-commerce site",
+    "READMIZE - a book recommendation app using NYTimes APIs"
+  ]
+ 
 hobbies: 
   [
     "hamsters",
