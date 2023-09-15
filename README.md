@@ -27,7 +27,7 @@ fields_of_interests:
   
 technical_background:
   [
-    "SWE Intern @ hippo",
+    "SWE Intern @ Oscar",
     "Frontend Engineer Intern @ gigturbo",
     "Teaching Assistant @ Columbia University"
   ]
