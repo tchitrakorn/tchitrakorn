@@ -1,4 +1,4 @@
-<h2 align="center"> ʕ ˵• ₒ •˵ ʔ &emsp; Hi everyone, I'm Tattie! &emsp; ʕ ˵• ₒ •˵ ʔ </h2>
+<h2 align="center"> <3 ʕ ˵• ₒ •˵ ʔ &emsp; Hi everyone, I'm Tattie! &emsp; ʕ ˵• ₒ •˵ ʔ <3 </h2>
 <br>
 
 <div align="center">
