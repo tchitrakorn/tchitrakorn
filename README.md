@@ -13,10 +13,10 @@
 
 ```yaml
 name: Tattie Chitrakorn
-pronouns: she/her
+pronouns: She/Her
 school: Columbia University
 current_location: New York City
-aspiration: fullstack developer
+aspiration: Software Engineer
 
 fields_of_interests:
   [
@@ -27,15 +27,18 @@ fields_of_interests:
   
 technical_background:
   [
-    "Fullstack SWE Intern @ Oscar",
-    "Frontend Engineer Intern @ gigturbo",
+    "Back-End SWE Intern @ identifeye HEALTH",
+    "Full-Stack SWE Intern @ Oscar Health",
+    "Front-End SWE Intern @ Network Tree",
+    "Front-End SWE Intern @ gigturbo",
     "Teaching Assistant @ Columbia University"
   ]
  
 notable_projects: 
   [
-    "Minglee - a simple social app built with a PERN stack",
-    "Atelier - a fullstack single-page e-commerce site",
+    "Minglee - a simple social app built with a MERN stack",
+    "Calendar Assistant - Google Calendar wrapper with enhanced functionalities",
+    "Atelier - a full-stack single-page e-commerce site",
     "READMIZE - a book recommendation app using NYTimes APIs"
   ]
  
