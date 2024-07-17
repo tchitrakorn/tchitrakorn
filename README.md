@@ -20,9 +20,10 @@ aspiration: Software Engineer
 
 fields_of_interests:
   [
+    "Software Development",
+    "Data Engineeering",
     "Web Development",
-    "UI/UX",
-    "NLP"
+    "UI/UX"
   ]
   
 technical_background:
